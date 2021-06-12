@@ -11,8 +11,11 @@ A aplicaçâo tem como objetivo principal permitir ao usuário criar atividades/
 deleta tarefas e marca-la como completa 
 
 
+## Demo
 
+#### Link: **[Acessar](https://reacttasklist.netlify.app/)**
 
+#
 ## 🚀 Como executar
 
 * Clone o repositório
