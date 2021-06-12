@@ -11,8 +11,7 @@ A aplicaçâo tem como objetivo principal permitir ao usuário criar atividades/
 deleta tarefas e marca-la como completa 
 
 
-## Demo
- Link: Acessar
+
 
 ## 🚀 Como executar
 
